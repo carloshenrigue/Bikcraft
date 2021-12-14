@@ -22,6 +22,8 @@
   font-weight: 600;
   /* tamanho maximo declarado aque sem q o grid interfira */
   max-width: max-content;
+  border: none;
+  cursor: pointer;
 }
 
 .botao.seta {
