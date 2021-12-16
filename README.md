@@ -2,7 +2,7 @@
 
 # Bikcraft 🚴
 <p align="center">
-	<img src="https://i.imgur.com/mci9f8c.png" alt="Bikcraft" title="Bikcraft">
+	<img src="https://i.imgur.com/OKzv6sR.png" alt="Bikcraft" title="Bikcraft">
 </p>
 
 ## 📖 Sobre   
@@ -16,7 +16,7 @@ O projeto **Bikcraft** foi desenvolvido durante o curso de **HTML e CSS Completo
 ---
 
 ## 🖥️ Demonstração
-[![Bikcraft](https://i.imgur.com/OKzv6sR.png "Clique para acessar o projeto")](https://github.com/carloshenrigue/Bikcraft/index.html "Clique para acessar o projeto")   
+[![Bikcraft]( https://i.imgur.com/mci9f8c.png "Clique para acessar o projeto")](https://github.com/carloshenrigue/Bikcraft/index.html "Clique para acessar o projeto")   
 
 Você pode acessar o projeto clicando [aqui](https://github.com/carloshenrigue/Bikcraft/index.html).
 
