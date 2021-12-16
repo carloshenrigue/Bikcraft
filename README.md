@@ -16,9 +16,9 @@ O projeto **Bikcraft** foi desenvolvido durante o curso de **HTML e CSS Completo
 ---
 
 ## 🖥️ Demonstração
-[![Bikcraft]( https://i.imgur.com/mci9f8c.png "Clique para acessar o projeto")](https://github.com/carloshenrigue/Bikcraft/index.html "Clique para acessar o projeto")   
+[![Bikcraft]( https://i.imgur.com/mci9f8c.png "Clique para acessar o projeto")](https://sad-mclean-e40e12.netlify.app "Clique para acessar o projeto")   
 
-Você pode acessar o projeto clicando [aqui](https://github.com/carloshenrigue/Bikcraft/index.html).
+Você pode acessar o projeto clicando [aqui](https://sad-mclean-e40e12.netlify.app).
 
 ---
 
