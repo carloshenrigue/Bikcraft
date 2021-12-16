@@ -77,12 +77,18 @@
   color: var(--cor-0);
 }
 
+
 /* termos */
 .titulo-bg {
   padding-bottom: 60px;
   padding-top: 40px;
 
   background-color: var(--cor-11);
+}
+
+.titulo p{
+  background: url(../../img/dec/top-right.svg)
+  no-repeat top right 20px;
 }
 
 .titulo p{

@@ -17,6 +17,9 @@
   padding: 40px 40px 80px 80px;
   /*  vai mudar o comportamento das tags dentor do container */
   align-self: end;
+  background: url("../../img/dec/bottom-right-p.svg")
+  no-repeat 40px bottom 40px right;
+
 }
 .depoimento-conteudo p {
   font-family:  "Merriweather", serif;
@@ -54,5 +57,10 @@
   }
   .depoimento img {
     max-width: 200px;
+  }
+}
+@media (min-width: 1200px) {
+  .depoimento img {
+    max-height: 520px;
   }
 }
